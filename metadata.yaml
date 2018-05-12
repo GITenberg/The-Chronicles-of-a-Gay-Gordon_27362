@@ -1,0 +1,29 @@
+_repo: The-Chronicles-of-a-Gay-Gordon_27362
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gordon, J. M. (Joseph Maria)
+    alias: Gordon, Joseph Maria
+    birthdate: 1856
+    deathdate: 1929
+    gutenberg_agent_id: '32652'
+    url: http://www.gutenberg.org/2009/agents/32652
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Maria_Gordon
+description: ''
+gutenberg_issued: '2008-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gordon, J. M. (Joseph Maria), 1856-1929'
+- !lcsh 'Generals -- England -- Biography'
+- !lcc 'CT'
+title: The Chronicles of a Gay Gordon
+url: http://www.gutenberg.org/ebooks/27362
